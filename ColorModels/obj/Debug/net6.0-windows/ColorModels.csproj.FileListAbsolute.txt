@@ -1,0 +1,17 @@
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\ColorModels.exe
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\ColorModels.deps.json
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\ColorModels.runtimeconfig.json
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\ColorModels.dll
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\ColorModels.pdb
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.csproj.AssemblyReference.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.MainWindow.resources
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.csproj.GenerateResource.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.AssemblyInfoInputs.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.AssemblyInfo.cs
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.csproj.CoreCompileInputs.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.dll
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\refint\ColorModels.dll
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.pdb
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.genruntimeconfig.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ref\ColorModels.dll

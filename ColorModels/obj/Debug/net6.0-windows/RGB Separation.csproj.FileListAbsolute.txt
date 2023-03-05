@@ -1,0 +1,34 @@
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\RGB Separation.exe
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\RGB Separation.deps.json
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\RGB Separation.runtimeconfig.json
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\RGB Separation.dll
+C:\Users\agata\source\repos\ColorModels\ColorModels\bin\Debug\net6.0-windows\RGB Separation.pdb
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.csproj.AssemblyReference.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ColorModels.MainWindow.resources
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.csproj.GenerateResource.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.AssemblyInfoInputs.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.AssemblyInfo.cs
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.csproj.CoreCompileInputs.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.dll
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\refint\RGB Separation.dll
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.pdb
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\RGB Separation.genruntimeconfig.cache
+C:\Users\agata\source\repos\ColorModels\ColorModels\obj\Debug\net6.0-windows\ref\RGB Separation.dll
+C:\Users\agata\source\repos\RGB Separation\ColorModels\bin\Debug\net6.0-windows\RGB Separation.exe
+C:\Users\agata\source\repos\RGB Separation\ColorModels\bin\Debug\net6.0-windows\RGB Separation.deps.json
+C:\Users\agata\source\repos\RGB Separation\ColorModels\bin\Debug\net6.0-windows\RGB Separation.runtimeconfig.json
+C:\Users\agata\source\repos\RGB Separation\ColorModels\bin\Debug\net6.0-windows\RGB Separation.dll
+C:\Users\agata\source\repos\RGB Separation\ColorModels\bin\Debug\net6.0-windows\RGB Separation.pdb
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.csproj.AssemblyReference.cache
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\ColorModels.MainWindow.resources
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.csproj.GenerateResource.cache
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.AssemblyInfoInputs.cache
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.AssemblyInfo.cs
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.csproj.CoreCompileInputs.cache
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.dll
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\refint\RGB Separation.dll
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.pdb
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\RGB Separation.genruntimeconfig.cache
+C:\Users\agata\source\repos\RGB Separation\ColorModels\obj\Debug\net6.0-windows\ref\RGB Separation.dll
